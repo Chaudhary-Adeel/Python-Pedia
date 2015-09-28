@@ -27,5 +27,5 @@ The following people helped in creating the above content.
 
 * Contributors to <a href="https://github.com/vinta/awesome-python" target="_blank">awesome-python</a>
 * [M.Yasoob Ullah Khalid](https://github.com/yasoob)
-* * [Muhammad Adeel](https://github.com/chaudhary-adeel)
+* [Muhammad Adeel](https://github.com/chaudhary-adeel)
 * [Noah](https://github.com/DigitalMockingbird)
